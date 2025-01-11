@@ -1,0 +1,9 @@
+
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
+启动命令：python manage.py runserver
+
+管理员账号：admins
+管理员密码：admins
+
+爬虫
+crawl_movie.py
